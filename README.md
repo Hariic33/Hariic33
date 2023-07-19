@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hariic33
 - 👀 I’m interested in sports, music, video games, bartending, and coding!
-- 🌱 I’m currently learning Java language, while also working with Spring Boot, Docker and DBeaver.
+- 🌱 I’m currently learning Java language, while also honing my skills with Spring Boot, Docker and DBeaver.
 - 💪 I’m looking for ways to improve myself everyday!
 - 📫 How to reach me ...
 - ⚒️ Work ethic is 🔑
