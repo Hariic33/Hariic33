@@ -1,6 +1,6 @@
 # Hello World👋
 - 👀 I’m interested in sports, music, video games, bartending, and coding!
-- 🌱 I’m currently learning Java language, while also honing my skills with Spring Boot, Docker and DBeaver.
+- 🌱 I’m currently improving my Java language skills!
 - 💪 I’m looking for ways to improve myself everyday!
 - 📫 Reach me @ https://www.linkedin.com/in/haraldsmakbets/
 - ⚒️ Work ethic is 🔑
