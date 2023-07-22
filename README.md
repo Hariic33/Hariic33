@@ -1,8 +1,8 @@
 # Hello World👋 I'm Haralds
-- 👍 I'm a young programmer from Latvia!
-- 👀 I’m interested in sports, music, video games, bartending, and coding!
-- 🌱 I’m currently improving my Java language skills!
-- 💪 I’m looking for ways to improve myself everyday!
+- 👍 A young programmer from Latvia!
+- 👀 Interested in sports, music, video games, bartending, and coding!
+- 🌱 Currently improving my Java language skills!
+- 💪 Looking for ways to improve myself everyday!
 - 📫 Reach me @ https://www.linkedin.com/in/haraldsmakbets/
 - ⚒️ Work ethic is 🔑
 - 🤝 Cheers!
