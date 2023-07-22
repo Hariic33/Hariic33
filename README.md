@@ -25,5 +25,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hariic33&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-
-  <img height="200" src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif"/>
+### 💻 Me Right Now
+<img height="200" src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif"/>
